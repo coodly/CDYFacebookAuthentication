@@ -48,6 +48,7 @@
 		EA0D93C0190010430049D777 /* CDYFacebookAuthenticationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CDYFacebookAuthenticationTests-Info.plist"; sourceTree = "<group>"; };
 		EA0D93C2190010430049D777 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EA0D93C4190010430049D777 /* CDYFacebookAuthenticationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CDYFacebookAuthenticationTests.m; sourceTree = "<group>"; };
+		EA0D93CE190011B50049D777 /* CDYFacebookAuthentication.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CDYFacebookAuthentication.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		EA0D9393190010430049D777 = {
 			isa = PBXGroup;
 			children = (
+				EA0D93CE190011B50049D777 /* CDYFacebookAuthentication.podspec */,
 				EA0D93A5190010430049D777 /* CDYFacebookAuthentication */,
 				EA0D93BE190010430049D777 /* CDYFacebookAuthenticationTests */,
 				EA0D939E190010430049D777 /* Frameworks */,
